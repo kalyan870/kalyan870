@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+  <title id="title">Kalyan Saragadam — AI engineering profile</title>
+  <desc id="desc">A light terminal-inspired profile banner highlighting Kalyan's work in generative AI, retrieval systems, agents, multimodal AI, and full-stack development.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#f2f7ff"/><stop offset="1" stop-color="#eafaf8"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset=".52" stop-color="#0891b2"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#06b6d4" stop-opacity=".15"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#55708f" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff" stop-opacity=".96"/><stop offset="1" stop-color="#f7fbff" stop-opacity=".96"/></linearGradient>
+  </defs>
+  <rect width="1180" height="610" rx="24" fill="url(#bg)"/>
+  <rect width="1180" height="610" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="95" r="300" fill="url(#glow)"><animate attributeName="opacity" values=".65;.9;.65" dur="9s" repeatCount="indefinite"/></circle>
+  <rect x="1" y="1" width="1178" height="608" rx="23" fill="none" stroke="#8295ad" stroke-opacity=".42"/>
+  <path d="M24 56H1156" stroke="#8295ad" stroke-opacity=".38"/>
+  <circle cx="34" cy="29" r="6" fill="#fb7185"/><circle cx="54" cy="29" r="6" fill="#f59e0b"/><circle cx="74" cy="29" r="6" fill="#10b981"/>
+  <text x="104" y="34" fill="#536780" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">kalyan@github: ~/profile</text>
+  <rect x="1020" y="16" width="124" height="26" rx="13" fill="#e7f7f1" stroke="#34a879" stroke-opacity=".65"/>
+  <circle cx="1037" cy="29" r="4" fill="#059669" filter="url(#softGlow)"><animate attributeName="opacity" values=".55;1;.55" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="1050" y="34" fill="#087656" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">BUILDING</text>
+
+  <rect x="28" y="76" width="404" height="506" rx="18" fill="url(#panel)" stroke="#9aabc0" stroke-opacity=".75"/>
+  <rect x="28" y="76" width="404" height="2" rx="1" fill="url(#accent)"/>
+  <text x="54" y="111" fill="#536780" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">VISUAL.MAP</text>
+  <text x="390" y="111" text-anchor="end" fill="#71839b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">01 / 02</text>
+  <rect x="54" y="132" width="352" height="258" rx="14" fill="#f6f9fd" stroke="#b8c6d6"/>
+  <circle cx="230" cy="258" r="100" fill="none" stroke="#d0dbe7" stroke-dasharray="2 9"/>
+  <circle cx="230" cy="258" r="75" fill="none" stroke="#c2d1e0"/>
+  <path d="M230 166V350M138 258H322M165 193L295 323M295 193L165 323" stroke="#cad6e3"/>
+  <circle cx="230" cy="258" r="58" fill="#ffffff" stroke="url(#accent)" stroke-width="2" filter="url(#softGlow)"/>
+  <text x="230" y="278" text-anchor="middle" fill="#17243b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="62" font-weight="700">K</text>
+  <circle cx="230" cy="164" r="5" fill="#0891b2"/><circle cx="322" cy="258" r="5" fill="#7c3aed"/><circle cx="230" cy="352" r="5" fill="#059669"/><circle cx="138" cy="258" r="5" fill="#0891b2"/>
+  <path d="M230 178V194M294 258H278M230 338V322M166 258H182" stroke="url(#accent)" stroke-width="2" opacity=".82"/>
+  <text x="230" y="371" text-anchor="middle" fill="#627690" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">IDEAS → SYSTEMS → PRODUCTS</text>
+  <text x="54" y="427" fill="#5b7089" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">~/focus $</text>
+  <text x="143" y="427" fill="#253850" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">practical AI, thoughtfully built</text>
+  <rect x="54" y="451" width="352" height="1" fill="#cbd6e3"/>
+  <text x="54" y="481" fill="#5b7089" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2">CURRENT FOCUS</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+    <rect x="54" y="497" width="102" height="31" rx="9" fill="#f1edff" stroke="#cbbdf5"/><text x="105" y="517" text-anchor="middle" fill="#5b35b1">GENAI</text>
+    <rect x="164" y="497" width="102" height="31" rx="9" fill="#e8f7fb" stroke="#b2dce7"/><text x="215" y="517" text-anchor="middle" fill="#087f98">RAG</text>
+    <rect x="274" y="497" width="132" height="31" rx="9" fill="#e8f7f1" stroke="#b2ddd0"/><text x="340" y="517" text-anchor="middle" fill="#087656">AI AGENTS</text>
+    <rect x="54" y="538" width="166" height="27" rx="8" fill="#f3f7fb" stroke="#ccd7e4"/><text x="137" y="556" text-anchor="middle" fill="#354b63">MULTIMODAL AI</text>
+    <rect x="228" y="538" width="178" height="27" rx="8" fill="#f3f7fb" stroke="#ccd7e4"/><text x="317" y="556" text-anchor="middle" fill="#354b63">FULL-STACK</text>
+  </g>
+
+  <rect x="454" y="76" width="698" height="506" rx="18" fill="url(#panel)" stroke="#9aabc0" stroke-opacity=".75"/>
+  <rect x="454" y="76" width="2" height="506" rx="1" fill="url(#accent)"/>
+  <text x="484" y="111" fill="#536780" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">SYSTEM.INFO</text>
+  <text x="1122" y="111" text-anchor="end" fill="#71839b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">PROFILE.SVG</text>
+  <text x="484" y="168" fill="#17243b" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Kalyan Saragadam</text>
+  <text x="484" y="199" fill="#087f98" font-family="Arial, Helvetica, sans-serif" font-size="18">AI Engineer in the making · Full-Stack Development</text>
+  <text x="484" y="228" fill="#52667e" font-family="Arial, Helvetica, sans-serif" font-size="15">Generative AI · LLMs · AI Agents · Practical product engineering</text>
+  <rect x="484" y="250" width="638" height="1" fill="#cbd6e3"/>
+  <text x="484" y="278" fill="#5b7089" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">SELECTED BUILDS</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="496" cy="312" r="4" fill="#7c3aed"/><text x="513" y="317" fill="#17243b" font-size="17" font-weight="700">InterviewIQ AI</text><text x="694" y="317" fill="#52667e" font-size="14">AI interview preparation and answer evaluation</text>
+    <path d="M484 338H1122" stroke="#d4deea"/>
+    <circle cx="496" cy="365" r="4" fill="#0891b2"/><text x="513" y="370" fill="#17243b" font-size="17" font-weight="700">RAG System</text><text x="694" y="370" fill="#52667e" font-size="14">Enterprise document Q&amp;A with hybrid retrieval</text>
+    <path d="M484 391H1122" stroke="#d4deea"/>
+    <circle cx="496" cy="418" r="4" fill="#059669"/><text x="513" y="423" fill="#17243b" font-size="17" font-weight="700">Real-Time Multimodal App</text><text x="513" y="445" fill="#52667e" font-size="14">Voice assistant with RAG, semantic search, and Docker</text>
+  </g>
+  <rect x="484" y="466" width="638" height="1" fill="#cbd6e3"/>
+  <text x="484" y="494" fill="#5b7089" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">ENGINEERING TOOLKIT</text>
+  <text x="484" y="522" fill="#354b63" font-family="Arial, Helvetica, sans-serif" font-size="15">Python  ·  TypeScript  ·  React  ·  FastAPI  ·  Django  ·  Docker</text>
+  <path d="M484 543H1122" stroke="#d4deea"/>
+  <text x="484" y="567" fill="#52667e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">github.com/kalyan870</text>
+  <text x="1122" y="567" text-anchor="end" fill="#71839b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">BUILD PRACTICALLY · LEARN CONTINUOUSLY</text>
+</svg>

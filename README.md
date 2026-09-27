@@ -1,6 +1,12 @@
-# Hi, I'm Kalyan Saragadam 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Kalyan Saragadam — AI engineering, RAG, agents, multimodal AI, and full-stack development" width="1180">
+  </picture>
+</p>
 
-### AI Engineer in the making · GenAI · LLMs · AI Agents · Full-Stack Development
+<p align="center"><strong>AI Engineer in the making · GenAI · LLMs · AI Agents · Full-Stack Development</strong></p>
 
 I build practical AI-powered products that turn ambitious ideas into useful, accessible experiences. My work sits at the intersection of **Generative AI, intelligent automation, retrieval systems, computer vision, and modern web development**.
 
