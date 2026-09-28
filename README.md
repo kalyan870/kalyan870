@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
-    <img src="./profile-dark.svg" alt="Kalyan Saragadam — AI engineering, RAG, agents, multimodal AI, and full-stack development" width="1180">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-light.png">
+    <img src="./profile-dark.png" alt="Kalyan Saragadam — AI engineering, RAG, agents, multimodal AI, and full-stack development" width="1180">
   </picture>
 </p>
 
