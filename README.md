@@ -21,6 +21,7 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
   <a href="#more-projects">More Projects</a> ·
   <a href="#tech-stack">Tech Stack</a> ·
   <a href="#github-activity">Activity</a> ·
+  <a href="#content-community">Community</a> ·
   <a href="#lets-connect">Connect</a>
 </p>
 
@@ -95,17 +96,37 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 
 ## Tech stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### AI & data
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat) ![RAG](https://img.shields.io/badge/RAG-5E5CE6?style=flat) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### Web & engineering
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="24%"><strong>🧠 Languages & Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI & Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
+      <img src="https://img.shields.io/badge/RAG-5E5CE6?style=for-the-badge" alt="RAG">
+      <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" alt="Computer Vision">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Web & Engineering</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    </td>
+  </tr>
+</table>
 
 ## GitHub activity
 
@@ -113,6 +134,42 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
   <img src="https://github-readme-stats.vercel.app/api?username=kalyan870&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Kalyan's GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan870&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165">
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kalyan870&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="190">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyan870&theme=github_dark" alt="GitHub profile activity summary" width="100%">
+</p>
+
+<h3 align="center">Contribution Calendar</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/kalyan870" alt="GitHub contribution calendar" width="100%">
+</p>
+
+## Content & Community
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📚 Learning & Portfolio</h3>
+      <p>Documenting my learning through projects, posts, courses, and certificates.</p>
+      <a href="https://github.com/kalyan870/kalyanhub">Explore KalyanHub →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✍️ Writing</h3>
+      <p>Sharing ideas and learning notes through my writing.</p>
+      <a href="https://saragadamkalyan.substack.com">Read on Substack →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤝 Connect & Collaborate</h3>
+      <p>Interested in collaborating on practical AI tools, developer products, and socially useful applications.</p>
+      <a href="https://www.linkedin.com/in/saragadamkalyan">Connect on LinkedIn →</a>
+    </td>
+  </tr>
+</table>
 
 ## Let's connect
 
