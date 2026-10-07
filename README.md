@@ -14,6 +14,16 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saragadam%20Kalyan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/saragadamkalyan)
 [![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=flat&logo=substack)](https://saragadamkalyan.substack.com)
 
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#what-i-build">Focus Areas</a> ·
+  <a href="#featured-projects">Featured Work</a> ·
+  <a href="#more-projects">More Projects</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#github-activity">Activity</a> ·
+  <a href="#lets-connect">Connect</a>
+</p>
+
 ---
 
 ## About me
@@ -37,40 +47,51 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 
 ## Featured projects
 
-### [InterviewIQ AI](https://github.com/kalyan870/interviewiq-ai)
-
-An AI-powered full-stack interview preparation platform with personalized interviews, answer evaluation, voice interviews, resume intelligence, project defense, analytics, authentication, and cross-device synchronization.
-
-### [RAG System](https://github.com/kalyan870/rag-system)
-
-A production-oriented enterprise document question-answering system featuring hybrid search, reranking, and evaluation.
-
-### [Real-Time Multimodal App](https://github.com/kalyan870/realtime-multimodal-app)
-
-A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.
-
-### [Local SLM Ollama Lab](https://github.com/kalyan870/local-slm-ollama-lab)
-
-A local AI benchmarking dashboard for comparing small language models such as Qwen, Mistral, Llama, Phi, and Gemma across performance and deployment metrics.
-
-### [Django Fetch Guard](https://github.com/kalyan870/django-fetch-guard)
-
-A Django performance tool designed to prevent accidental ORM queries, enforce strict fetch contracts, support automatic N+1 batching, and integrate with Django REST Framework.
-
-### [Face Emotion](https://github.com/kalyan870/face-emotion)
-
-A real-time facial emotion recognition and analytics dashboard combining MediaPipe, computer vision, TypeScript, and Python.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/interviewiq-ai">InterviewIQ AI</a></h3>
+      <p>An AI-powered full-stack interview preparation platform with personalized interviews, answer evaluation, voice interviews, resume intelligence, project defense, analytics, authentication, and cross-device synchronization.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/rag-system">RAG System</a></h3>
+      <p>A production-oriented enterprise document question-answering system featuring hybrid search, reranking, and evaluation.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/realtime-multimodal-app">Real-Time Multimodal App</a></h3>
+      <p>A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/local-slm-ollama-lab">Local SLM Ollama Lab</a></h3>
+      <p>A local AI benchmarking dashboard for comparing small language models such as Qwen, Mistral, Llama, Phi, and Gemma across performance and deployment metrics.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/django-fetch-guard">Django Fetch Guard</a></h3>
+      <p>A Django performance tool designed to prevent accidental ORM queries, enforce strict fetch contracts, support automatic N+1 batching, and integrate with Django REST Framework.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kalyan870/face-emotion">Face Emotion</a></h3>
+      <p>A real-time facial emotion recognition and analytics dashboard combining MediaPipe, computer vision, TypeScript, and Python.</p>
+    </td>
+  </tr>
+</table>
 
 ## More projects
 
-- [KalyanHub](https://github.com/kalyan870/kalyanhub) — learning and portfolio hub for AI engineering projects, posts, courses, and certificates
-- [GrowthCortex](https://github.com/kalyan870/growthcortex) — AI startup growth copilot for ideas, strategy, experiments, and product decisions
-- [Customer Feedback Analyzer](https://github.com/kalyan870/Customer-Feedback-Analyzer) — NLP, sentiment analysis, Generative AI, and RAG for customer feedback intelligence
-- [AI Automation Agent](https://github.com/kalyan870/AI-Automation-Agent) — an agent for coordinating tools and automating repetitive workflows
-- [Codebase Knowledge AI](https://github.com/kalyan870/codebase-knowledge-ai) — AI-powered assistance for exploring software projects and answering codebase questions
-- [Smart Inventory Forecasting](https://github.com/kalyan870/Smart-Inventory-Forecasting) — demand trends, stock planning, and supply-chain insights
-- [AI Resume & Job Matcher](https://github.com/kalyan870/AI-Resume-Job-Matcher-System) — profile parsing, fit scoring, gap identification, and role recommendations
-- [Image Recognition API](https://github.com/kalyan870/Image-Recognition-API-with-Auto-Captioning) — image recognition and automatic caption generation through an interactive API
+| Project | Overview |
+| --- | --- |
+| [KalyanHub](https://github.com/kalyan870/kalyanhub) | learning and portfolio hub for AI engineering projects, posts, courses, and certificates |
+| [GrowthCortex](https://github.com/kalyan870/growthcortex) | AI startup growth copilot for ideas, strategy, experiments, and product decisions |
+| [Customer Feedback Analyzer](https://github.com/kalyan870/Customer-Feedback-Analyzer) | NLP, sentiment analysis, Generative AI, and RAG for customer feedback intelligence |
+| [AI Automation Agent](https://github.com/kalyan870/AI-Automation-Agent) | an agent for coordinating tools and automating repetitive workflows |
+| [Codebase Knowledge AI](https://github.com/kalyan870/codebase-knowledge-ai) | AI-powered assistance for exploring software projects and answering codebase questions |
+| [Smart Inventory Forecasting](https://github.com/kalyan870/Smart-Inventory-Forecasting) | demand trends, stock planning, and supply-chain insights |
+| [AI Resume & Job Matcher](https://github.com/kalyan870/AI-Resume-Job-Matcher-System) | profile parsing, fit scoring, gap identification, and role recommendations |
+| [Image Recognition API](https://github.com/kalyan870/Image-Recognition-API-with-Auto-Captioning) | image recognition and automatic caption generation through an interactive API |
 
 ## Tech stack
 
@@ -88,9 +109,10 @@ A real-time facial emotion recognition and analytics dashboard combining MediaPi
 
 ## GitHub activity
 
-![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalyan870&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan870&layout=compact&hide_border=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyan870&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Kalyan's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan870&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165">
+</p>
 
 ## Let's connect
 
