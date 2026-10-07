@@ -94,12 +94,14 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 | [AI Resume & Job Matcher](https://github.com/kalyan870/AI-Resume-Job-Matcher-System) | profile parsing, fit scoring, gap identification, and role recommendations |
 | [Image Recognition API](https://github.com/kalyan870/Image-Recognition-API-with-Auto-Captioning) | image recognition and automatic caption generation through an interactive API |
 
-## Tech stack
+## Tech Stack
 
-<table>
+<p align="center"><em>Tools and technologies I use to build AI and full-stack applications</em></p>
+
+<table align="center">
   <tr>
-    <td width="24%"><strong>🧠 Languages & Core</strong></td>
-    <td>
+    <td align="center" width="190"><strong>🧠 Languages & Core</strong></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -107,26 +109,40 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
     </td>
   </tr>
   <tr>
-    <td><strong>🤖 AI & Data</strong></td>
-    <td>
+    <td align="center"><strong>🤖 AI · ML · Vision</strong></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
       <img src="https://img.shields.io/badge/RAG-5E5CE6?style=for-the-badge" alt="RAG">
       <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" alt="Computer Vision">
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     </td>
   </tr>
   <tr>
-    <td><strong>🛠️ Web & Engineering</strong></td>
-    <td>
+    <td align="center"><strong>☁️ Apps & APIs</strong></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Tools & Delivery</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </td>
   </tr>
 </table>
+
+<p align="center"><strong>🧬 Focus Areas</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=flat-square" alt="Generative AI">
+  <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square" alt="LLM Applications">
+  <img src="https://img.shields.io/badge/Retrieval%20Augmented%20Generation-5E5CE6?style=flat-square" alt="Retrieval Augmented Generation">
+  <img src="https://img.shields.io/badge/AI%20Agents-007ACC?style=flat-square" alt="AI Agents">
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=flat-square" alt="Computer Vision">
+</p>
 
 ## GitHub activity
 
