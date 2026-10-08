@@ -114,22 +114,27 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
       <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
       <img src="https://img.shields.io/badge/RAG-5E5CE6?style=for-the-badge" alt="RAG">
       <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" alt="Computer Vision">
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe">
+      <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter">
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>☁️ Apps & APIs</strong></td>
+    <td align="center"><strong>🧩 Apps & APIs</strong></td>
     <td align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>⚙️ Tools & Delivery</strong></td>
+    <td align="center"><strong>☁️ Cloud · Delivery</strong></td>
     <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </td>
   </tr>
