@@ -70,11 +70,7 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kalyan870/django-fetch-guard">Django Fetch Guard</a></h3>
-      <p>A Django performance tool designed to prevent accidental ORM queries, enforce strict fetch contracts, support automatic N+1 batching, and integrate with Django REST Framework.</p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/kalyan870/face-emotion">Face Emotion</a></h3>
       <p>A real-time facial emotion recognition and analytics dashboard combining MediaPipe, computer vision, TypeScript, and Python.</p>
     </td>
