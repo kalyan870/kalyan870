@@ -159,10 +159,14 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalyan870&theme=github_dark" alt="GitHub profile activity summary" width="100%">
 </p>
 
-<h3 align="center">Contribution Calendar</h3>
+<h3 align="center">🐍 Watch My Contributions Get Eaten</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/kalyan870" alt="GitHub contribution calendar" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyan870/kalyan870/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyan870/kalyan870/output/github-contribution-grid-snake.svg">
+    <img alt="Animated GitHub contribution graph for Kalyan" src="https://raw.githubusercontent.com/kalyan870/kalyan870/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ## Content & Community
