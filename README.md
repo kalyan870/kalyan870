@@ -102,45 +102,37 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
   <tr>
     <td align="center" width="190"><strong>🧠 Languages & Core</strong></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://skillicons.dev/icons?i=python,js,ts&perline=3" alt="Python, JavaScript, and TypeScript logos" height="55">
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>🤖 AI · ML · Vision</strong></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs">
-      <img src="https://img.shields.io/badge/RAG-5E5CE6?style=for-the-badge" alt="RAG">
-      <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" alt="Computer Vision">
-      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe">
-      <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter">
-      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://skillicons.dev/icons?i=ollama&perline=1" alt="Ollama logo" height="55">
+      <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" alt="LLMs">
+      <img src="https://img.shields.io/badge/RAG-5E5CE6?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" alt="MediaPipe">
+      <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" alt="OpenRouter">
     </td>
   </tr>
   <tr>
     <td align="center"><strong>🧩 Apps & APIs</strong></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,django&perline=3" alt="React, Node.js, and Django logos" height="55">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>☁️ Cloud · Delivery</strong></td>
+    <td align="center"><strong>☁️ Deployment & Tools</strong></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git&perline=4" alt="Docker, Vercel, Netlify, and Git logos" height="55">
     </td>
   </tr>
 </table>
 
-<p align="center"><strong>🧬 Focus Areas</strong></p>
+<p align="center"><strong>🧬 GenAI · LLMs · Agents · Retrieval</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=flat-square" alt="Generative AI">
   <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square" alt="LLM Applications">
