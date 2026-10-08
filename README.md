@@ -152,23 +152,6 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge" alt="Computer Vision">
 </p>
 
-## Open Source Contributions
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Community Contributions</h3>
-      <p>Browse my public pull requests and contributions to open-source projects.</p>
-      <a href="https://github.com/pulls?q=is%3Apr+author%3Akalyan870+-user%3Akalyan870">Explore open-source pull requests →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ Merged Contribution</h3>
-      <p>Added a hidden fetch examples gallery to <code>django-fetch-guard</code>.</p>
-      <a href="https://github.com/yassinbahri/django-fetch-guard/pull/13">View merged pull request #13 →</a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub activity
 
 <p align="center">
