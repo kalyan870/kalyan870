@@ -48,34 +48,25 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kalyan870/interviewiq-ai">InterviewIQ AI</a></h3>
-      <p>An AI-powered full-stack interview preparation platform with personalized interviews, answer evaluation, voice interviews, resume intelligence, project defense, analytics, authentication, and cross-device synchronization.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kalyan870/rag-system">RAG System</a></h3>
-      <p>A production-oriented enterprise document question-answering system featuring hybrid search, reranking, and evaluation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kalyan870/realtime-multimodal-app">Real-Time Multimodal App</a></h3>
-      <p>A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kalyan870/local-slm-ollama-lab">Local SLM Ollama Lab</a></h3>
-      <p>A local AI benchmarking dashboard for comparing small language models such as Qwen, Mistral, Llama, Phi, and Gemma across performance and deployment metrics.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3><a href="https://github.com/kalyan870/face-emotion">Face Emotion</a></h3>
-      <p>A real-time facial emotion recognition and analytics dashboard combining MediaPipe, computer vision, TypeScript, and Python.</p>
-    </td>
-  </tr>
-</table>
+### [InterviewIQ AI](https://github.com/kalyan870/interviewiq-ai)
+
+An AI-powered full-stack interview preparation platform with personalized interviews, answer evaluation, voice interviews, resume intelligence, project defense, analytics, authentication, and cross-device synchronization.
+
+### [RAG System](https://github.com/kalyan870/rag-system)
+
+A production-oriented enterprise document question-answering system featuring hybrid search, reranking, and evaluation.
+
+### [Real-Time Multimodal App](https://github.com/kalyan870/realtime-multimodal-app)
+
+A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.
+
+### [Local SLM Ollama Lab](https://github.com/kalyan870/local-slm-ollama-lab)
+
+A local AI benchmarking dashboard for comparing small language models such as Qwen, Mistral, Llama, Phi, and Gemma across performance and deployment metrics.
+
+### [Face Emotion](https://github.com/kalyan870/face-emotion)
+
+A real-time facial emotion recognition and analytics dashboard combining MediaPipe, computer vision, TypeScript, and Python.
 
 ## More projects
 
