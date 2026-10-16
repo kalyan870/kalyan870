@@ -12,6 +12,7 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 
 [![GitHub](https://img.shields.io/badge/GitHub-kalyan870-181717?style=flat&logo=github)](https://github.com/kalyan870)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saragadam%20Kalyan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/saragadamkalyan)
+[![Instagram](https://img.shields.io/badge/Instagram-%40kalyanwithai-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kalyanwithai/)
 [![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=flat&logo=substack)](https://saragadamkalyan.substack.com)
 
 <p align="center">
@@ -189,6 +190,7 @@ A real-time facial emotion recognition and analytics dashboard combining MediaPi
 ## Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saragadamkalyan)
+- 📸 [Instagram](https://www.instagram.com/kalyanwithai/)
 - ✍️ [Substack](https://saragadamkalyan.substack.com)
 - 🧑‍💻 [Explore my repositories](https://github.com/kalyan870?tab=repositories)
 
