@@ -6,13 +6,15 @@
   </picture>
 </p>
 
-<p align="center"><strong>AI Engineer in the making · GenAI · LLMs · AI Agents · Full-Stack Development</strong></p>
+<p align="center"><strong>AI & Full-Stack Developer · B.Tech CSE ’28 · Seeking AI/ML and Software Engineering Internships</strong></p>
 
-I build practical AI-powered products that turn ambitious ideas into useful, accessible experiences. My work sits at the intersection of **Generative AI, intelligent automation, retrieval systems, computer vision, and modern web development**.
+I’m a Computer Science student at Vignan’s Institute of Information Technology, graduating in 2028. I build practical AI and full-stack applications, then share the source and demos so people can inspect what works. My current focus is **Python, applied AI, retrieval systems, computer vision, APIs, and modern web development**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-kalyan870-181717?style=flat&logo=github)](https://github.com/kalyan870)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saragadam%20Kalyan-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/saragadamkalyan)
 [![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=flat&logo=substack)](https://saragadamkalyan.substack.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-KalyanNexus-ccff00?style=flat)](https://kalyannexus.vercel.app/)
+[![KalyanHub](https://img.shields.io/badge/KalyanHub-Learning%20%26%20Projects-f26b38?style=flat)](https://kalyanhub.netlify.app/)
 
 <p align="center">
   <a href="#about-me">About</a> ·
@@ -50,15 +52,15 @@ I build practical AI-powered products that turn ambitious ideas into useful, acc
 
 ### [InterviewIQ AI](https://github.com/kalyan870/interviewiq-ai)
 
-An AI-powered full-stack interview preparation platform with personalized interviews, answer evaluation, voice interviews, resume intelligence, project defense, analytics, authentication, and cross-device synchronization.
+An AI-powered interview-preparation project. See the repository and live demo for the current implemented workflows and setup details.
 
 ### [RAG System](https://github.com/kalyan870/rag-system)
 
-A production-oriented enterprise document question-answering system featuring hybrid search, reranking, and evaluation.
+A document question-answering project. See its repository for the current retrieval approach, model configuration, and evaluation details.
 
 ### [Real-Time Multimodal App](https://github.com/kalyan870/realtime-multimodal-app)
 
-A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.
+A voice-and-text assistant with a Streamlit UI and FastAPI backend. It can use Hugging Face speech recognition, OpenRouter or NVIDIA LLM APIs, and optional gTTS speech output. The current pipeline uses synchronous request/response processing; retrieval and token streaming are not implemented.
 
 ### [Local SLM Ollama Lab](https://github.com/kalyan870/local-slm-ollama-lab)
 
