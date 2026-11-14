@@ -60,7 +60,7 @@ A document question-answering project. See its repository for the current retrie
 
 ### [Real-Time Multimodal App](https://github.com/kalyan870/realtime-multimodal-app)
 
-A real-time voice assistant built around RAG, OpenRouter LLMs, semantic search, and Docker-based deployment.
+A voice-and-text assistant with a Streamlit UI and FastAPI backend. It can use Hugging Face speech recognition, OpenRouter or NVIDIA LLM APIs, and optional gTTS speech output. The current pipeline uses synchronous request/response processing; retrieval and token streaming are not implemented.
 
 ### [Local SLM Ollama Lab](https://github.com/kalyan870/local-slm-ollama-lab)
 
