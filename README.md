@@ -15,6 +15,7 @@ I’m a Computer Science student at Vignan’s Institute of Information Technolo
 [![Substack](https://img.shields.io/badge/Substack-Read%20my%20writing-FF6719?style=flat&logo=substack)](https://saragadamkalyan.substack.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-KalyanNexus-ccff00?style=flat)](https://kalyannexus.vercel.app/)
 [![KalyanHub](https://img.shields.io/badge/KalyanHub-Learning%20%26%20Projects-f26b38?style=flat)](https://kalyanhub.netlify.app/)
+[![Portfolio showcase](https://img.shields.io/badge/Portfolio-Video%20%26%20Project%20Decks-142133?style=flat)](https://github.com/kalyan870/kalyan-profile-showcase)
 
 <p align="center">
   <a href="#about-me">About</a> ·
@@ -47,6 +48,12 @@ I’m a Computer Science student at Vignan’s Institute of Information Technolo
 | **Multimodal AI** | Voice assistants, image recognition, captioning, and computer vision |
 | **Full-Stack Applications** | Responsive interfaces, authentication, real-time features, APIs, and dashboards |
 | **Applied AI** | Career tools, customer feedback intelligence, observability, forecasting, and risk awareness |
+
+## Portfolio film and presentation library
+
+[Watch the 5:58 portfolio, LinkedIn, and GitHub film](https://github.com/kalyan870/kalyan-profile-showcase/releases/download/v1.0.0/Kalyan_Full_LinkedIn_GitHub_Portfolio_Film_Final.mp4) · [Browse the presentation library](https://github.com/kalyan870/kalyan-profile-showcase)
+
+The release includes the combined presentation, a visual-enhanced LinkedIn profile overview, a 53-repository architecture and technology catalog, portfolio stack slides, and separate project presentation and explanation archives.
 
 ## Featured projects
 
