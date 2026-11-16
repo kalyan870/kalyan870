@@ -57,6 +57,10 @@ The release includes the combined presentation, a visual-enhanced LinkedIn profi
 
 ## Featured projects
 
+### [AdSpy AI](https://github.com/kalyan870/AdSpyAI)
+
+An AI-assisted ad-analysis prototype with a Next.js web app and Expo mobile companion. The demo shows a structured sample hook score, script outline, and creative rewrite; the current version validates URLs as text and does not fetch or analyze video/audio. See the repository for architecture, screenshots, setup, and prototype limitations.
+
 ### [InterviewIQ AI](https://github.com/kalyan870/interviewiq-ai)
 
 An AI-powered interview-preparation project. See the repository and live demo for the current implemented workflows and setup details.
